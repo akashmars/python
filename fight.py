@@ -19,7 +19,7 @@ player_a.shapesize(stretch_wid=1, stretch_len=1)
 
 
 
-
+# Functions
 def player_a_up():
     player_a.color("yellow")
     y = player_a.ycor()
