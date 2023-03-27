@@ -57,7 +57,7 @@ def player_a_shoot():
         projectile.sety(projectile.ycor() + projectile.dy)
         time.sleep(0.05)
         projectile.move(25)  
-
+# Listen
 wn.listen()
 wn.onkey(player_a_up, "w")
 wn.onkey(player_a_down, "s")
