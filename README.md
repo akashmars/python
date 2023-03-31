@@ -1,2 +1,2 @@
-# python
-# python
+# I an coding python currently. I'm working on projects and small games. Hi.
+# Keep coding...
